@@ -2,7 +2,7 @@
 
 ### 📊 Project 1 — Excel Sales Performance Dashboard
 
-# 📊 Sales Performance Dashboard — Excel
+# 📊 Sales Performance Dashboard — Excel Project
 
 ## 📌 Project Overview
 
